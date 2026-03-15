@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Robin&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Software%20Engineer&descAlignY=85&descSize=16&descColor=888888" width="100%"/>
@@ -21,23 +20,25 @@ I build reliable backend systems and cloud-native infrastructure. Currently focu
 
 ---
 
-## About
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
+### About
 - Working with cloud-native applications, CI/CD pipelines, and distributed systems
 - Currently learning Kubernetes and advanced AWS
 - Open to collaboration on open-source and backend projects
 
----
+</td>
+    <td width="50%" valign="top" align="center">
 
-## Stats
+### Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Robini908&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=4493f8&text_color=8b949e" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robini908&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" width="100%"/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Robini908&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=4493f8&text_color=8b949e" height="155"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robini908&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="155"/>
-
-</div>
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -50,4 +51,3 @@ I build reliable backend systems and cloud-native infrastructure. Currently focu
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
-```
