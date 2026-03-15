@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Robin&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Software%20Engineer&descAlignY=85&descSize=16&descColor=888888" width="100%"/>
@@ -6,9 +7,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/Robini908?label=Follow&style=flat-square&color=171515&labelColor=171515&logo=github&logoColor=white)](https://github.com/Robini908)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-your%40email.com-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-abrahamopuba%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:abrahamopuba@gmail.com)
 
 </div>
 
@@ -44,12 +43,11 @@ I build reliable backend systems and cloud-native infrastructure. Currently focu
 
 <div align="center">
 <sub>
-<a href="mailto:your-email@example.com">your-email@example.com</a>
-&nbsp;·&nbsp;
-<a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
+<a href="mailto:abrahamopuba@gmail.com">abrahamopuba@gmail.com</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/Robini908">GitHub</a>
 </sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+```
